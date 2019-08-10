@@ -6,4 +6,6 @@
 
 #### 【[Demo3](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo3)】掩膜操作
 
+#### 【[Demo4](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo4)】Mat对象
+
 #### 【waiting to update...】
