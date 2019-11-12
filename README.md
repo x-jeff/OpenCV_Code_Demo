@@ -10,4 +10,6 @@
 
 #### 【[Demo5](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo5)】图像操作
 
+#### 【[Demo6](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo6)】图像混合
+
 #### 【waiting to update...】

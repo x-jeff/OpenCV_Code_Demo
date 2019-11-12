@@ -80,11 +80,9 @@ int main(int argc, char** argv)
     Mat smalling = src(Rect(0, 0, 500, 500));
     */
 
-    Mat img;
-    img=Scalar(0);
 
     namedWindow("output", WINDOW_AUTOSIZE);
-    imshow("output", img);
+    imshow("output", src);
     waitKey(0);
     return 0;
 }
