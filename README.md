@@ -12,4 +12,6 @@
 
 #### 【[Demo6](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo6)】图像混合
 
+#### 【[Demo7](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo7)】调整图像亮度与对比度
+
 #### 【waiting to update...】
