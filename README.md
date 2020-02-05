@@ -14,4 +14,6 @@
 
 #### 【[Demo7](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo7)】调整图像亮度与对比度
 
+#### 【[Demo8](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo8)】绘制形状和文字
+
 #### 【waiting to update...】
