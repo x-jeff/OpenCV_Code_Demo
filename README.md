@@ -1,19 +1,21 @@
 # OpenCV Demo List (C++)
 
-#### 【[Demo1](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo1)】OpenCV环境配置测试代码
+#### 【[Demo1](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo1)】[【OpenCV基础】第一课：OpenCV环境配置](http://shichaoxin.com/2019/01/19/OpenCV基础-第一课-OpenCV环境配置/)
 
-#### 【[Demo2](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo2)】图像的加载、显示、修改、保存
+#### 【[Demo2](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo2)】[【OpenCV基础】第二课：加载、修改、保存图像](http://shichaoxin.com/2019/04/01/OpenCV基础-第二课-加载-修改-保存图像/)
 
-#### 【[Demo3](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo3)】掩膜操作
+#### 【[Demo3](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo3)】[【OpenCV基础】第三课：掩膜操作](http://shichaoxin.com/2019/06/02/OpenCV基础-第三课-掩膜操作/)
 
-#### 【[Demo4](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo4)】Mat对象
+#### 【[Demo4](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo4)】[【OpenCV基础】第四课：Mat对象](http://shichaoxin.com/2019/08/06/OpenCV基础-第四课-Mat对象/)
 
-#### 【[Demo5](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo5)】图像操作
+#### 【[Demo5](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo5)】[【OpenCV基础】第五课：图像操作](http://shichaoxin.com/2019/09/10/OpenCV基础-第五课-图像操作/)
 
-#### 【[Demo6](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo6)】图像混合
+#### 【[Demo6](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo6)】[【OpenCV基础】第六课：图像混合](http://shichaoxin.com/2019/11/12/OpenCV基础-第六课-图像混合/)
 
-#### 【[Demo7](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo7)】调整图像亮度与对比度
+#### 【[Demo7](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo7)】[【OpenCV基础】第七课：调整图像亮度与对比度](http://shichaoxin.com/2020/01/07/OpenCV基础-第七课-调整图像亮度与对比度/)
 
-#### 【[Demo8](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo8)】绘制形状和文字
+#### 【[Demo8](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo8)】[【OpenCV基础】第八课：绘制形状和文字](http://shichaoxin.com/2020/02/05/OpenCV基础-第八课-绘制形状和文字/)
+
+#### 【[Demo9](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo9)】[【OpenCV基础】第九课：图像模糊](http://shichaoxin.com/2020/03/03/OpenCV基础-第九课-图像模糊/)
 
 #### 【waiting to update...】
