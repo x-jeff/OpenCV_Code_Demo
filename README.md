@@ -22,4 +22,6 @@
 
 #### 【[Demo10](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo10)】[【OpenCV基础】第十课：形态学操作](http://shichaoxin.com/2020/04/08/OpenCV基础-第十课-形态学操作/)
 
+#### 【[Demo11](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo11)】[【OpenCV基础】第十一课：形态学操作的应用](http://shichaoxin.com/2020/05/23/OpenCV基础-第十一课-形态学操作的应用/)
+
 #### 【waiting to update...】
