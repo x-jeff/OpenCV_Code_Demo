@@ -26,4 +26,6 @@
 
 #### 【[Demo12](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo12)】[【OpenCV基础】第十二课：图像的缩放](http://shichaoxin.com/2020/07/15/OpenCV基础-第十二课-图像的缩放/)
 
+#### 【[Demo13](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo13)】[【OpenCV基础】第十三课：基本阈值操作](http://shichaoxin.com/2020/08/24/OpenCV基础-第十三课-基本阈值操作/)
+
 #### 【waiting to update...】
