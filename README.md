@@ -28,4 +28,6 @@
 
 #### 【[Demo13](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo13)】[【OpenCV基础】第十三课：基本阈值操作](http://shichaoxin.com/2020/08/24/OpenCV基础-第十三课-基本阈值操作/)
 
+#### 【[Demo14](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo14)】[【OpenCV基础】第十四课：自定义线性滤波](http://shichaoxin.com/2020/10/17/OpenCV基础-第十四课-自定义线性滤波/)
+
 #### 【waiting to update...】
