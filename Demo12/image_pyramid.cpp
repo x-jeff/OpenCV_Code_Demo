@@ -5,7 +5,6 @@ using namespace cv;
 int main(int argc, char** argv){
     Mat src, dst1,dst2,dst3;
     src = imread("../../Demo1/p1.jpeg");
-    //src = imread("C:/personal document/SegmentationAlgorithm/grabcut/GrabcutTest/record/frame1/c_Color.png");
     if (!src.data){
         printf("could not find the image...\n");
         return -1;

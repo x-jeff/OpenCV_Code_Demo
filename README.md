@@ -30,4 +30,6 @@
 
 #### 【[Demo14](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo14)】[【OpenCV基础】第十四课：自定义线性滤波](http://shichaoxin.com/2020/10/17/OpenCV基础-第十四课-自定义线性滤波/)
 
+#### 【[Demo15](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo15)】[【OpenCV基础】第十五课：边缘处理](http://shichaoxin.com/2020/12/11/OpenCV基础-第十五课-边缘处理/)
+
 #### 【waiting to update...】
