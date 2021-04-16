@@ -34,4 +34,6 @@
 
 #### 【[Demo16](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo16)】[【OpenCV基础】第十六课：Sobel算子](http://shichaoxin.com/2021/03/01/OpenCV基础-第十六课-Sobel算子/)
 
+#### 【[Demo17](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo17)】[【OpenCV基础】第十七课：Laplace算子](http://shichaoxin.com/2021/04/16/OpenCV基础-第十七课-Laplace算子/)
+
 #### 【waiting to update...】
