@@ -36,4 +36,6 @@
 
 #### 【[Demo17](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo17)】[【OpenCV基础】第十七课：Laplace算子](http://shichaoxin.com/2021/04/16/OpenCV基础-第十七课-Laplace算子/)
 
+#### 【[Demo18](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo18)】[【OpenCV基础】第十八课：Canny边缘检测算法](http://shichaoxin.com/2021/05/17/OpenCV基础-第十八课-Canny边缘检测算法/)
+
 #### 【waiting to update...】
