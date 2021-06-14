@@ -38,4 +38,6 @@
 
 #### 【[Demo18](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo18)】[【OpenCV基础】第十八课：Canny边缘检测算法](http://shichaoxin.com/2021/05/17/OpenCV基础-第十八课-Canny边缘检测算法/)
 
+#### 【[Demo19](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo19)】[【OpenCV基础】第十九课：霍夫变换](http://shichaoxin.com/2021/06/14/OpenCV基础-第十九课-霍夫变换/)
+
 #### 【waiting to update...】
