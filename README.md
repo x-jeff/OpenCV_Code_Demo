@@ -40,4 +40,6 @@
 
 #### 【[Demo19](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo19)】[【OpenCV基础】第十九课：霍夫变换](http://shichaoxin.com/2021/06/14/OpenCV基础-第十九课-霍夫变换/)
 
+#### 【[Demo20](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo20)】[【OpenCV基础】第二十课：像素重映射](http://shichaoxin.com/2021/06/29/OpenCV基础-第二十课-像素重映射/)
+
 #### 【waiting to update...】
