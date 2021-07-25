@@ -42,4 +42,6 @@
 
 #### 【[Demo20](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo20)】[【OpenCV基础】第二十课：像素重映射](http://shichaoxin.com/2021/06/29/OpenCV基础-第二十课-像素重映射/)
 
+#### 【[Demo21](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo21)】[【OpenCV基础】第二十一课：直方图均衡化](http://shichaoxin.com/2021/07/19/OpenCV基础-第二十一课-直方图均衡化/)
+
 #### 【waiting to update...】
