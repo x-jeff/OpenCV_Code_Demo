@@ -44,4 +44,6 @@
 
 #### 【[Demo21](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo21)】[【OpenCV基础】第二十一课：直方图均衡化](http://shichaoxin.com/2021/07/19/OpenCV基础-第二十一课-直方图均衡化/)
 
+#### 【[Demo22](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo22)】[【OpenCV基础】第二十二课：直方图计算](http://shichaoxin.com/2021/08/02/OpenCV基础-第二十二课-直方图计算/)
+
 #### 【waiting to update...】
