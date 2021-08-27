@@ -46,4 +46,6 @@
 
 #### 【[Demo22](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo22)】[【OpenCV基础】第二十二课：直方图计算](http://shichaoxin.com/2021/08/02/OpenCV基础-第二十二课-直方图计算/)
 
+#### 【[Demo23](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo23)】[【OpenCV基础】第二十三课：直方图比较](http://shichaoxin.com/2021/08/27/OpenCV基础-第二十三课-直方图比较/)
+
 #### 【waiting to update...】
