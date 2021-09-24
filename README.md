@@ -48,4 +48,6 @@
 
 #### 【[Demo23](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo23)】[【OpenCV基础】第二十三课：直方图比较](http://shichaoxin.com/2021/08/27/OpenCV基础-第二十三课-直方图比较/)
 
+#### 【[Demo24](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo24)】[【OpenCV基础】第二十四课：直方图反向投影](http://shichaoxin.com/2021/09/24/OpenCV基础-第二十四课-直方图反向投影/)
+
 #### 【waiting to update...】
