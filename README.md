@@ -50,4 +50,6 @@
 
 #### 【[Demo24](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo24)】[【OpenCV基础】第二十四课：直方图反向投影](http://shichaoxin.com/2021/09/24/OpenCV基础-第二十四课-直方图反向投影/)
 
+#### 【[Demo25](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo25)】[【OpenCV基础】第二十五课：模板匹配](http://shichaoxin.com/2021/10/21/OpenCV基础-第二十五课-模板匹配/)
+
 #### 【waiting to update...】
