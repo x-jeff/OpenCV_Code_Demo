@@ -52,4 +52,6 @@
 
 #### 【[Demo25](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo25)】[【OpenCV基础】第二十五课：模板匹配](http://shichaoxin.com/2021/10/21/OpenCV基础-第二十五课-模板匹配/)
 
+#### 【[Demo26](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo26)】[【OpenCV基础】第二十六课：轮廓发现](http://shichaoxin.com/2021/12/16/OpenCV基础-第二十六课-轮廓发现/)
+
 #### 【waiting to update...】
