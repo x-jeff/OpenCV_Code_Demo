@@ -54,4 +54,6 @@
 
 #### 【[Demo26](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo26)】[【OpenCV基础】第二十六课：轮廓发现](http://shichaoxin.com/2021/12/16/OpenCV基础-第二十六课-轮廓发现/)
 
+#### 【[Demo27](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo27)】[【OpenCV基础】第二十七课：凸包](http://shichaoxin.com/2022/01/04/OpenCV基础-第二十七课-凸包/)
+
 #### 【waiting to update...】
