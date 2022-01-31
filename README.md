@@ -56,4 +56,6 @@
 
 #### 【[Demo27](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo27)】[【OpenCV基础】第二十七课：凸包](http://shichaoxin.com/2022/01/04/OpenCV基础-第二十七课-凸包/)
 
+#### 【[Demo28](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo28)】[【OpenCV基础】第二十八课：轮廓周围绘制矩形框和圆形框](http://shichaoxin.com/2022/01/30/OpenCV基础-第二十八课-轮廓周围绘制矩形框和圆形框/)
+
 #### 【waiting to update...】
