@@ -58,4 +58,6 @@
 
 #### 【[Demo28](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo28)】[【OpenCV基础】第二十八课：轮廓周围绘制矩形框和圆形框](http://shichaoxin.com/2022/01/30/OpenCV基础-第二十八课-轮廓周围绘制矩形框和圆形框/)
 
+#### 【[Demo29](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo29)】[【OpenCV基础】第二十九课：图像矩](http://shichaoxin.com/2022/02/19/OpenCV基础-第二十九课-图像矩/)
+
 #### 【waiting to update...】
