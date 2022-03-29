@@ -60,4 +60,6 @@
 
 #### 【[Demo29](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo29)】[【OpenCV基础】第二十九课：图像矩](http://shichaoxin.com/2022/02/19/OpenCV基础-第二十九课-图像矩/)
 
+#### 【[Demo30](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo30)】[【OpenCV基础】第三十课：点多边形测试](http://shichaoxin.com/2022/03/27/OpenCV基础-第三十课-点多边形测试/)
+
 #### 【waiting to update...】
