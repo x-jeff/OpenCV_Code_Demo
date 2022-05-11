@@ -62,4 +62,6 @@
 
 #### 【[Demo30](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo30)】[【OpenCV基础】第三十课：点多边形测试](http://shichaoxin.com/2022/03/27/OpenCV基础-第三十课-点多边形测试/)
 
+#### 【[Demo31](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo31)】[【OpenCV基础】第三十一课：基于距离变换与分水岭的图像分割](http://shichaoxin.com/2022/04/21/OpenCV基础-第三十一课-基于距离变换与分水岭的图像分割/)
+
 #### 【waiting to update...】
