@@ -64,4 +64,6 @@
 
 #### 【[Demo31](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo31)】[【OpenCV基础】第三十一课：基于距离变换与分水岭的图像分割](http://shichaoxin.com/2022/04/21/OpenCV基础-第三十一课-基于距离变换与分水岭的图像分割/)
 
+#### 【[Demo32](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo32)】[【OpenCV基础】第三十二课：Harris角点检测](http://shichaoxin.com/2022/05/30/OpenCV基础-第三十二课-Harris角点检测/)
+
 #### 【waiting to update...】
