@@ -66,4 +66,6 @@
 
 #### 【[Demo32](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo32)】[【OpenCV基础】第三十二课：Harris角点检测](http://shichaoxin.com/2022/05/30/OpenCV基础-第三十二课-Harris角点检测/)
 
+#### 【[Demo33](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo33)】[【OpenCV基础】第三十三课：Shi-Tomasi角点检测](http://shichaoxin.com/2022/07/16/OpenCV基础-第三十三课-Shi-Tomasi角点检测/)
+
 #### 【waiting to update...】
