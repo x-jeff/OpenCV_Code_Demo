@@ -68,4 +68,6 @@
 
 #### 【[Demo33](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo33)】[【OpenCV基础】第三十三课：Shi-Tomasi角点检测](http://shichaoxin.com/2022/07/16/OpenCV基础-第三十三课-Shi-Tomasi角点检测/)
 
+#### 【[Demo34](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo34)】[【OpenCV基础】第三十四课：自定义角点检测器](http://shichaoxin.com/2022/08/21/OpenCV基础-第三十四课-自定义角点检测器/)
+
 #### 【waiting to update...】
