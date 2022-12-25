@@ -70,4 +70,6 @@
 
 #### 【[Demo34](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo34)】[【OpenCV基础】第三十四课：自定义角点检测器](http://shichaoxin.com/2022/08/21/OpenCV基础-第三十四课-自定义角点检测器/)
 
+#### 【[Demo35](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo35)】[【OpenCV基础】第三十五课：亚像素级别角点检测](http://shichaoxin.com/2022/11/07/OpenCV基础-第三十五课-亚像素级别角点检测/)
+
 #### 【waiting to update...】
