@@ -74,4 +74,6 @@
 
 #### 【[Demo36](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo36)】[【OpenCV基础】第三十六课：SIFT特征检测](http://shichaoxin.com/2022/12/29/OpenCV基础-第三十六课-SIFT特征检测/)
 
+#### 【[Demo37](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo37)】[【OpenCV基础】第三十七课：积分图计算](http://shichaoxin.com/2023/02/13/OpenCV基础-第三十七课-积分图计算/)
+
 #### 【waiting to update...】
