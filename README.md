@@ -76,4 +76,6 @@
 
 #### 【[Demo37](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo37)】[【OpenCV基础】第三十七课：积分图计算](http://shichaoxin.com/2023/02/13/OpenCV基础-第三十七课-积分图计算/)
 
+#### 【Demo38】[【OpenCV基础】第三十八课：Haar特征](http://shichaoxin.com/2023/04/26/OpenCV基础-第三十八课-Haar特征/)
+
 #### 【waiting to update...】
