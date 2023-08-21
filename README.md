@@ -78,4 +78,6 @@
 
 #### 【Demo38】[【OpenCV基础】第三十八课：Haar特征](http://shichaoxin.com/2023/04/26/OpenCV基础-第三十八课-Haar特征/)
 
+#### 【[Demo39](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo39)】[【OpenCV基础】第三十九课：SURF特征检测](http://shichaoxin.com/2023/06/22/OpenCV基础-第三十九课-SURF特征检测/)
+
 #### 【waiting to update...】
