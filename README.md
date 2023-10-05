@@ -80,4 +80,6 @@
 
 #### 【[Demo39](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo39)】[【OpenCV基础】第三十九课：SURF特征检测](http://shichaoxin.com/2023/06/22/OpenCV基础-第三十九课-SURF特征检测/)
 
+#### 【[Demo40](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo40)】[【OpenCV基础】第四十课：HOG特征检测](http://shichaoxin.com/2023/08/06/OpenCV基础-第四十课-HOG特征检测/)
+
 #### 【waiting to update...】
