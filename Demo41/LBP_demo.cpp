@@ -10,7 +10,7 @@ int current_radius = 3;
 int max_count = 20;
 void ELBP_Demo(int, void*);
 int main(int argc, char** argv) {
-    src = imread("/Users/xinshichao/PersonalWork/AboutGit/GitCode/OpenCV_Code_Demo/Demo41/iron_man.png");
+    src = imread("iron_man.png");
     if (src.empty()) {
         printf("could not load image...\n");
         return -1;

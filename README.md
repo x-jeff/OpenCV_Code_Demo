@@ -84,4 +84,6 @@
 
 #### 【[Demo41](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo41)】[【OpenCV基础】第四十一课：LBP特征](http://shichaoxin.com/2023/10/16/OpenCV基础-第四十一课-LBP特征/)
 
+#### 【[Demo42](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo42)】[【OpenCV基础】第四十二课：特征匹配](http://shichaoxin.com/2024/01/06/OpenCV基础-第四十二课-特征匹配/)
+
 #### 【waiting to update...】
