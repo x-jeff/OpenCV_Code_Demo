@@ -86,4 +86,6 @@
 
 #### 【[Demo42](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo42)】[【OpenCV基础】第四十二课：特征匹配](http://shichaoxin.com/2024/01/06/OpenCV基础-第四十二课-特征匹配/)
 
+#### 【[Demo43](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo43)】[【OpenCV基础】第四十三课：平面对象识别](http://shichaoxin.com/2024/05/02/OpenCV基础-第四十三课-平面对象识别/)
+
 #### 【waiting to update...】
