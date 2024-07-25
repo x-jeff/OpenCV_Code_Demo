@@ -88,4 +88,6 @@
 
 #### 【[Demo43](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo43)】[【OpenCV基础】第四十三课：平面对象识别](http://shichaoxin.com/2024/05/02/OpenCV基础-第四十三课-平面对象识别/)
 
+#### 【[Demo44](https://github.com/x-jeff/OpenCV_Code_Demo/tree/master/Demo44)】[【OpenCV基础】第四十四课：AKAZE局部匹配](http://shichaoxin.com/2024/07/21/OpenCV基础-第四十四课-AKAZE局部匹配/)
+
 #### 【waiting to update...】
